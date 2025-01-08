@@ -33,7 +33,8 @@ Now that you've installed Stimulation Splitter, you need to connect it to LiveSp
 If you aren't using the [LiveSplit Development Build](https://raw.githubusercontent.com/LiveSplit/LiveSplit.github.io/artifacts/LiveSplitDevBuild.zip), Stimulation Splitter will not work.  
 [![Install LiveSplit](https://img.shields.io/badge/LiveSplit_Development_Build-Download-0284c7?style=for-the-badge)](https://update.greasyfork.org/scripts/523171/Stimulation%20Splitter.user.js)  
 
-Stimulation Splitter is designed to be used with [this split file](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lss) and [this layout file](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lsl). Make sure you download both of these files.  
+Stimulation Splitter is designed to be used with [this split file](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lss) and [this layout file](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lsl).  
+Make sure you download both of these files.  
 [![Download Splits](https://img.shields.io/badge/LiveSplit_Splits-Download-0284c7?style=for-the-badge)](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lss)  
 [![Download Layouts](https://img.shields.io/badge/LiveSplit_Layout-Download-0284c7?style=for-the-badge)](https://github.com/Mikarific/StimulationSplitter/blob/main/assets/livesplit/Stimulation%20Clicker%20-%20Any%25.lsl)  
 
