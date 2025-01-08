@@ -34,7 +34,7 @@ If you aren't using the [LiveSplit Development Build](https://raw.githubusercont
 [![Install LiveSplit](https://img.shields.io/badge/LiveSplit_Development_Build-Download-0284c7?style=for-the-badge)](https://update.greasyfork.org/scripts/523171/Stimulation%20Splitter.user.js)  
 
 Once you've installed and run LiveSplit, right click and enable `Control` -> `Start WebSocket Server`  
-![Start Websocket](https://github.com/Mikarific/StimulationSplitter/raw/main/assets/readme/install.png)
+![Start Websocket](https://github.com/Mikarific/StimulationSplitter/raw/main/assets/readme/websocket.png)
 
 Now that you've started the WebSocket server, go to [https://neal.fun/stimulation-clicker/](https://neal.fun/stimulation-clicker/) and refresh the page!
 
