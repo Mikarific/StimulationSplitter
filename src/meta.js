@@ -17,4 +17,7 @@
 // @supportURL  https://discord.gg/Ka4ww68xnY
 // @homepageURL https://discord.gg/Ka4ww68xnY
 // @license     process.env.LICENSE
+// @grant       GM.registerMenuCommand
+// @grant       GM.getValue
+// @grant       GM.setValue
 // ==/UserScript==

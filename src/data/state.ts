@@ -28,6 +28,15 @@ function getVueState(container: HTMLDivElement, resolve: (value: unknown) => voi
 }
 
 export const state: Promise<{
+	$refs: {
+		bg: {
+			$refs: { renderer: HTMLCanvasElement };
+			render: (time: number, options: unknown) => void;
+			renderDVDs: (time: number, options: unknown, size: unknown) => void;
+			resize: () => void;
+		};
+	};
+	bgAnimationLoop: () => void;
 	showStimulation: boolean;
 	showHydraulicPress: boolean;
 	showLevels: boolean;
